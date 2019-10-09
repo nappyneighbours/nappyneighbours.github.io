@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+	background-image: url(/nappybackground.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.project-name {
+	text-shadow: 5px 4px 3px rgba(0,0,0,0.28);
+}
+
+.project-tagline {
+	opacity: 0.9;
+	text-shadow: 5px 4px 3px rgba(0,0,0,0.28);
+}
