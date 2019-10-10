@@ -1,1 +1,1 @@
-![useful links for reusable nappies](links.jpg)
+![useful links for reusable nappies](links.png)
