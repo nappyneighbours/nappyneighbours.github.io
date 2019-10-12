@@ -4,7 +4,7 @@
 
 We offer local reusable nappy advice and support in London and surrounding areas.
 
-## Reusable Nappy Infographics
+### Reusable Nappy Infographics
 
  - [Types of Reusable Nappies](/types-of-nappies)
  - [Using Reusable Nappies Full Time](/nappies-full-time)
@@ -12,3 +12,5 @@ We offer local reusable nappy advice and support in London and surrounding areas
  - [Useful Links](/useful-links)
 
 ![Nappy Background](nappybackground.jpeg)
+
+[Instagram](https://www.instagram.com/nappy_neighbours) | [Facebook](https://www.facebook.com/nappyneighbours/)
