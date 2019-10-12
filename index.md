@@ -1,6 +1,6 @@
 # Nappy Neighbours
 
-## ❤️ Local reusable nappy advice and support
+## Local reusable nappy advice and support ❤️
 
 We offer local reusable nappy advice and support in London and surrounding areas.
 
