@@ -2,7 +2,7 @@
 
 ## Local reusable nappy advice and support ❤️
 
-We offer local reusable nappy advice and support in London and surrounding areas.
+We are three local mums spreading the reusable nappy love in Lewisham and Southwark.
 
 ### Reusable Nappy Infographics
 
